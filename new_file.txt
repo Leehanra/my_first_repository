@@ -1,0 +1,8 @@
+git bash practice 
+# vim file
+# git clone
+# git add
+# git status
+# git commit
+# git push
+
